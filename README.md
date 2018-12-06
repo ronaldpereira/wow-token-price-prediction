@@ -2,6 +2,12 @@
 
 WoW Token price prediction algorithm based:
 
-- on many Stock Market indicators and many other custom indicators, like Pearson and Spearman Correlation, for example
+- on data science insights, like Pearson and Spearman Correlation and price and return plots, for example
 
-- on custom input features using Natural Language Processing to predict the impact of an actual news in the price
+- on many Stock Market indicators (Simple Moving Average and Exponencial Moving Average)
+
+- on machine learning models
+  - LSTM Neural Network
+  - MLP Neural Network
+  - Decision Tree Classifier
+  - Logistic Regression
